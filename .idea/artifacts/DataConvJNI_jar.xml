@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="DataConvJNI:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="root">
+      <element id="archive" name="DataConvJNI.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="DataConvJNI" />
+      </element>
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.15" />
+    </root>
+  </artifact>
+</component>

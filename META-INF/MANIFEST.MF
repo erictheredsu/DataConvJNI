@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.sap.businessone.dboperation.Main
+Class-Path: commons-codec-1.15.jar
+
